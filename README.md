@@ -3,7 +3,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
-This is the website for the Greentree Home Owner's Association. Use the floating navigation bar containing shortcuts to various parts of the website. The website aims to help homeowners by keeping them up to date with events, informing them of regulation changes, and allowing them to contact the HOA.
+This is the website for the Greentree Home Owner's Association ( https://www.greentreehomesirvine.org/ ). Use the floating navigation bar containing shortcuts to various parts of the website. The website aims to help homeowners by keeping them up to date with events, informing them of regulation changes, and allowing them to contact the HOA.
 
 ## Available Scripts
 
