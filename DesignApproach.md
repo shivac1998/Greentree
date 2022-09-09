@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Website Design Approach
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made in collaboration between 4 team members at NiceWrk LLC. Using React.js, we will divide the work on a component basis and communicate issues using https://www.notion.so/
+
 
 ## Available Scripts
 
