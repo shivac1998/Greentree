@@ -21,4 +21,6 @@ The navigation bar will appear to be floating along with the website user and wi
 
 The forms for maintenance and home improvement requests will be found here. The forms will be adapted to be in their appropriate designated page.
 
+### Layout
 
+The Layout section will contain styling features for all navigation.
