@@ -18,9 +18,7 @@ These are the main sections of the website and currently include: Home, Amenitie
 The navigation bar will appear to be floating along with the website user and will provide shortcut links to the different pages. This navbar should be able to adapt to desktop and mobile users.
 
 ### `Forms`
-
 The forms for maintenance and home improvement requests will be found here. The forms will be adapted to be in their appropriate designated page.
 
 ### Layout
-
 The Layout section will contain styling features for all navigation.
