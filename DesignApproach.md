@@ -1,6 +1,6 @@
 # Website Design Approach
 
-This project will be made in collaboration between 4-5 team members at NiceWrk LLC. Using React.js, we will divide the work on a component basis and communicate internal issues, ideas, plans, and progress reports using https://www.notion.so/
+This project will be made in collaboration between 2 team members at NiceWrk LLC. Using React.js, we will divide the work on a component basis and communicate internal issues, ideas, plans, and progress reports using https://www.notion.so/
 
 
 ## Task Organization and Delegation
